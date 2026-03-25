@@ -68,20 +68,21 @@ pip install -r requirements.txt
 **Core libraries:**
 
 ```
-pandas
-numpy
-scikit-learn
-imbalanced-learn
-xgboost
-lightgbm
-catboost
-boruta
-shap
-lime
-matplotlib
-seaborn
-scipy
-openpyxl
+pandas==2.3.2
+numpy==2.2.6
+scikit-learn==1.7.1
+imbalanced-learn==0.14.0
+xgboost==3.0.4
+lightgbm==4.6.0
+catboost==1.2.8
+boruta==0.4.3
+shap==0.48.0
+lime==0.2.0.1
+matplotlib==3.10.5
+seaborn==0.13.2
+scipy==1.15.3
+openpyxl==3.1.5
+jupyter
 ```
 
 ---
