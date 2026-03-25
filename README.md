@@ -127,4 +127,4 @@ This code is released under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions regarding the code or methodology, please open an issue or contact the corresponding author.
+For questions regarding the code or methodology, please open an issue or contact the corresponding author. Mail to: hkutlu@adiyaman.edu.tr
